@@ -358,7 +358,7 @@ importers:
         specifier: ^7.5.0
         version: 7.5.0
       mermaid:
-        specifier: workspace:*
+        specifier: ^10.0.2
         version: link:../mermaid
       rimraf:
         specifier: ^4.0.0

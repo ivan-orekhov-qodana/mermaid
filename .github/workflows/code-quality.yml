@@ -34,3 +34,5 @@ jobs:
         uses: JetBrains/qodana-action@main
         env:
             QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}        
+        with:
+          args: --env, ENDPOINT=${{ secrets.ENDPOINT }}

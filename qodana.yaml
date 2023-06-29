@@ -2,5 +2,5 @@ version: "1.0"
 linter: registry.jetbrains.team/p/sa/containers/qodana-js:2023.2-eap
 bootstrap: |
   mkdir -p /data/coverage
-  mv coverage/lcomv.info /data/coverage
+  mv coverage/lcov.info /data/coverage
   rm -rf coverage

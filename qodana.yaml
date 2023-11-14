@@ -1,6 +1,7 @@
 version: "1.0"
-linter: jetbrains/qodana-js:2023.2
+linter: jetbrains/qodana-js:latest
 bootstrap: |
+  pnpm install --no-frozen-lockfile
   mkdir -p /data/coverage
   mv coverage/lcov.info /data/coverage
   rm -rf coverage

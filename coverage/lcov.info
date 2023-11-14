@@ -1,5 +1,5 @@
 TN:
-SF:__mocks__\d3.ts
+SF:__mocks__/d3.ts
 FN:4,select
 FN:6,get
 FN:8,selectAll
@@ -41,7 +41,7 @@ BRF:5
 BRH:5
 end_of_record
 TN:
-SF:packages\mermaid-example-diagram\src\exampleDiagramDb.js
+SF:packages/mermaid-example-diagram/src/exampleDiagramDb.js
 FN:7,setMessage
 FN:12,getMessage
 FN:21,setInfo
@@ -102,7 +102,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid-example-diagram\src\mermaidUtils.ts
+SF:packages/mermaid-example-diagram/src/mermaidUtils.ts
 FN:1,warning
 FN:16,get
 FN:25,get
@@ -192,7 +192,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\Diagram.ts
+SF:packages/mermaid/src/Diagram.ts
 FN:21,Diagram
 FN:46,Diagram.parser.parse
 FN:55,parse
@@ -334,7 +334,7 @@ BRF:14
 BRH:11
 end_of_record
 TN:
-SF:packages\mermaid\src\accessibility.ts
+SF:packages/mermaid/src/accessibility.ts
 FN:29,setA11yDiagramInfo
 FN:34,get
 FN:46,addSVGa11yTitleDescription
@@ -433,7 +433,7 @@ BRF:12
 BRH:12
 end_of_record
 TN:
-SF:packages\mermaid\src\assignWithDepth.js
+SF:packages/mermaid/src/assignWithDepth.js
 FN:28,assignWithDepth
 FNF:1
 FNH:1
@@ -545,7 +545,7 @@ BRF:35
 BRH:35
 end_of_record
 TN:
-SF:packages\mermaid\src\commonDb.ts
+SF:packages/mermaid/src/commonDb.ts
 FN:6,sanitizeText
 FN:8,clear
 FN:12,get
@@ -646,7 +646,7 @@ BRF:16
 BRH:16
 end_of_record
 TN:
-SF:packages\mermaid\src\config.ts
+SF:packages/mermaid/src/config.ts
 FN:7,get
 FN:14,updateCurrentConfig
 FN:44,get
@@ -990,7 +990,7 @@ BRF:39
 BRH:31
 end_of_record
 TN:
-SF:packages\mermaid\src\defaultConfig.ts
+SF:packages/mermaid/src/defaultConfig.ts
 FN:545,messageFont
 FN:552,noteFont
 FN:559,actorFont
@@ -3155,7 +3155,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\directiveUtils.ts
+SF:packages/mermaid/src/directiveUtils.ts
 FN:8,parseDirective
 FN:47,get
 FN:49,handleDirective
@@ -3276,7 +3276,7 @@ BRF:19
 BRH:13
 end_of_record
 TN:
-SF:packages\mermaid\src\docs.mts
+SF:packages/mermaid/src/docs.mts
 FN:89,generateHeader
 FN:109,changeToFinalDocDir
 FN:122,logWasOrShouldBeTransformed
@@ -3798,7 +3798,7 @@ BRF:29
 BRH:20
 end_of_record
 TN:
-SF:packages\mermaid\src\errors.ts
+SF:packages/mermaid/src/errors.ts
 FN:2,UnknownDiagramError
 FN:6,get
 FNF:2
@@ -3819,7 +3819,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\interactionDb.ts
+SF:packages/mermaid/src/interactionDb.ts
 FN:2,addFunction
 FN:4,get
 FN:5,attachFunctions
@@ -3850,7 +3850,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:packages\mermaid\src\logger.ts
+SF:packages/mermaid/src/logger.ts
 FN:16,get
 FN:19,trace
 FN:20,debug
@@ -4007,7 +4007,7 @@ BRF:24
 BRH:18
 end_of_record
 TN:
-SF:packages\mermaid\src\mermaid.ts
+SF:packages/mermaid/src/mermaid.ts
 FN:50,handleError
 FN:95,run
 FN:116,runThrowsErrors
@@ -4500,7 +4500,7 @@ BRF:35
 BRH:25
 end_of_record
 TN:
-SF:packages\mermaid\src\mermaidAPI.ts
+SF:packages/mermaid/src/mermaidAPI.ts
 FN:102,parse
 FN:120,encodeEntities
 FN:142,get
@@ -5315,7 +5315,7 @@ BRF:74
 BRH:58
 end_of_record
 TN:
-SF:packages\mermaid\src\setupGraphViewbox.js
+SF:packages/mermaid/src/setupGraphViewbox.js
 FN:9,d3Attrs
 FN:23,calculateSvgSizeAttrs
 FN:43,configureSvgSize
@@ -5422,7 +5422,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:packages\mermaid\src\styles.ts
+SF:packages/mermaid/src/styles.ts
 FN:6,getStyles
 FN:76,addStylesForDiagram
 FN:78,get
@@ -5519,7 +5519,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\utils.ts
+SF:packages/mermaid/src/utils.ts
 FN:96,detectInit
 FN:123,get
 FN:148,detectDirective
@@ -6753,7 +6753,7 @@ BRF:102
 BRH:73
 end_of_record
 TN:
-SF:packages\mermaid\src\__mocks__\mermaidAPI.ts
+SF:packages/mermaid/src/__mocks__/mermaidAPI.ts
 FN:22,reset
 FN:25,globalReset
 FN:29,get
@@ -6801,7 +6801,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\clusters.js
+SF:packages/mermaid/src/dagre-wrapper/clusters.js
 FN:8,rect
 FN:85,noteGroup
 FN:115,roundedWithTitle
@@ -7068,7 +7068,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\createLabel.js
+SF:packages/mermaid/src/dagre-wrapper/createLabel.js
 FN:11,applyStyle
 FN:21,addHtmlLabel
 FN:45,createLabel
@@ -7177,7 +7177,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\edges.js
+SF:packages/mermaid/src/dagre-wrapper/edges.js
 FN:11,clear
 FN:16,insertEdgeLabel
 FN:117,setTerminalWidth
@@ -7793,7 +7793,7 @@ BRF:18
 BRH:9
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\index.js
+SF:packages/mermaid/src/dagre-wrapper/index.js
 FN:17,recursiveRender
 FN:149,render
 FNF:2
@@ -7977,7 +7977,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\markers.js
+SF:packages/mermaid/src/dagre-wrapper/markers.js
 FN:6,insertMarkers
 FN:12,extension
 FN:41,composition
@@ -8283,7 +8283,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\mermaid-graphlib.js
+SF:packages/mermaid/src/dagre-wrapper/mermaid-graphlib.js
 FN:10,clear
 FN:16,isDescendant
 FN:27,edgeInCluster
@@ -8868,7 +8868,7 @@ BRF:92
 BRH:81
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\nodes.js
+SF:packages/mermaid/src/dagre-wrapper/nodes.js
 FN:11,question
 FN:38,choice
 FN:72,hexagon
@@ -9967,7 +9967,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\index.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/index.js
 FNF:0
 FNH:0
 DA:1,1
@@ -9993,7 +9993,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-circle.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-circle.js
 FN:8,intersectCircle
 FNF:1
 FNH:0
@@ -10016,7 +10016,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-ellipse.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-ellipse.js
 FN:7,intersectEllipse
 FNF:1
 FNH:0
@@ -10057,7 +10057,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-line.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-line.js
 FN:9,intersectLine
 FN:74,sameSign
 FNF:2
@@ -10148,7 +10148,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-node.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-node.js
 FN:5,intersectNode
 FNF:1
 FNH:0
@@ -10169,7 +10169,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-polygon.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-polygon.js
 FN:15,intersectPolygon
 FNF:1
 FNH:0
@@ -10250,7 +10250,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\intersect\intersect-rect.js
+SF:packages/mermaid/src/dagre-wrapper/intersect/intersect-rect.js
 FN:2,intersectRect
 FNF:1
 FNH:0
@@ -10293,7 +10293,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\shapes\note.js
+SF:packages/mermaid/src/dagre-wrapper/shapes/note.js
 FN:5,note
 FNF:1
 FNH:0
@@ -10333,7 +10333,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\dagre-wrapper\shapes\util.js
+SF:packages/mermaid/src/dagre-wrapper/shapes/util.js
 FN:6,labelHelper
 FN:60,updateNodeBounds
 FN:72,insertPolygonShape
@@ -10433,7 +10433,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagram-api\detectType.ts
+SF:packages/mermaid/src/diagram-api/detectType.ts
 FN:40,detectType
 FN:52,get
 FN:67,registerLazyLoadedDiagrams
@@ -10604,7 +10604,7 @@ BRF:25
 BRH:25
 end_of_record
 TN:
-SF:packages\mermaid\src\diagram-api\diagram-orchestration.ts
+SF:packages/mermaid/src/diagram-api/diagram-orchestration.ts
 FN:24,addDiagrams
 FN:36,clear
 FN:44,parse
@@ -10712,7 +10712,7 @@ BRF:9
 BRH:9
 end_of_record
 TN:
-SF:packages\mermaid\src\diagram-api\diagramAPI.ts
+SF:packages/mermaid/src/diagram-api/diagramAPI.ts
 FN:16,get
 FN:17,get
 FN:18,get
@@ -10846,7 +10846,7 @@ BRF:14
 BRH:12
 end_of_record
 TN:
-SF:packages\mermaid\src\diagram-api\frontmatter.ts
+SF:packages/mermaid/src/diagram-api/frontmatter.ts
 FN:10,get
 FN:23,extractFrontMatter
 FN:40,get
@@ -10909,7 +10909,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\c4Db.js
+SF:packages/mermaid/src/diagrams/c4/c4Db.js
 FN:27,getC4Type
 FN:31,setC4Type
 FN:36,parseDirective
@@ -11840,7 +11840,7 @@ BRF:36
 BRH:17
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\c4Detector.ts
+SF:packages/mermaid/src/diagrams/c4/c4Detector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -11875,7 +11875,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\c4Diagram.ts
+SF:packages/mermaid/src/diagrams/c4/c4Diagram.ts
 FN:14,init
 FN:17,get
 FNF:2
@@ -11907,7 +11907,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\c4Renderer.js
+SF:packages/mermaid/src/diagrams/c4/c4Renderer.js
 FN:23,Bounds
 FN:42,setData
 FN:49,updateVal
@@ -12639,7 +12639,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\styles.js
+SF:packages/mermaid/src/diagrams/c4/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -12658,7 +12658,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\c4\svgDraw.js
+SF:packages/mermaid/src/diagrams/c4/svgDraw.js
 FN:4,drawRect
 FN:28,drawImage
 FN:38,drawRels
@@ -13425,7 +13425,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classDb.ts
+SF:packages/mermaid/src/diagrams/class/classDb.ts
 FN:28,sanitizeText
 FN:30,parseDirective
 FN:33,get
@@ -14001,7 +14001,7 @@ BRF:39
 BRH:35
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classDetector-V2.ts
+SF:packages/mermaid/src/diagrams/class/classDetector-V2.ts
 FN:5,detector
 FN:17,loader
 FNF:2
@@ -14048,7 +14048,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classDetector.ts
+SF:packages/mermaid/src/diagrams/class/classDetector.ts
 FN:5,detector
 FN:14,loader
 FNF:2
@@ -14094,7 +14094,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classDiagram-v2.ts
+SF:packages/mermaid/src/diagrams/class/classDiagram-v2.ts
 FN:13,init
 FN:20,get
 FNF:2
@@ -14130,7 +14130,7 @@ BRF:3
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classDiagram.ts
+SF:packages/mermaid/src/diagrams/class/classDiagram.ts
 FN:13,init
 FN:20,get
 FNF:2
@@ -14164,7 +14164,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classRenderer-v2.ts
+SF:packages/mermaid/src/diagrams/class/classRenderer-v2.ts
 FN:13,sanitizeText
 FN:30,addClasses
 FN:81,get
@@ -14570,7 +14570,7 @@ BRF:5
 BRH:5
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\classRenderer.js
+SF:packages/mermaid/src/diagrams/class/classRenderer.js
 FN:18,getGraphId
 FN:31,insertMarkers
 FN:141,draw
@@ -14863,7 +14863,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\styles.js
+SF:packages/mermaid/src/diagrams/class/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -15032,7 +15032,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\class\svgDraw.js
+SF:packages/mermaid/src/diagrams/class/svgDraw.js
 FN:7,drawEdge
 FN:161,drawClass
 FN:303,drawNote
@@ -15604,7 +15604,7 @@ BRF:36
 BRH:29
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\common\common.ts
+SF:packages/mermaid/src/diagrams/common/common.ts
 FN:10,getRows
 FN:16,get
 FN:24,removeScript
@@ -15861,7 +15861,7 @@ BRF:23
 BRH:22
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\erDb.js
+SF:packages/mermaid/src/diagrams/er/erDb.js
 FN:30,parseDirective
 FN:34,addEntity
 FN:43,getEntities
@@ -15995,7 +15995,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\erDetector.ts
+SF:packages/mermaid/src/diagrams/er/erDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -16030,7 +16030,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\erDiagram.ts
+SF:packages/mermaid/src/diagrams/er/erDiagram.ts
 FN:12,get
 FNF:1
 FNH:1
@@ -16054,7 +16054,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\erMarkers.js
+SF:packages/mermaid/src/diagrams/er/erMarkers.js
 FN:18,insertMarkers
 FNF:1
 FNH:0
@@ -16228,7 +16228,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\erRenderer.js
+SF:packages/mermaid/src/diagrams/er/erRenderer.js
 FN:28,setConf
 FN:45,drawAttributes
 FN:303,drawEntities
@@ -16961,7 +16961,7 @@ BRF:4
 BRH:3
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\er\styles.js
+SF:packages/mermaid/src/diagrams/er/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -17010,7 +17010,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\error\errorDetector.ts
+SF:packages/mermaid/src/diagrams/error/errorDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -17045,7 +17045,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\error\errorDiagram.ts
+SF:packages/mermaid/src/diagrams/error/errorDiagram.ts
 FN:6,clear
 FN:14,parse
 FN:18,init
@@ -17084,7 +17084,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\error\errorRenderer.ts
+SF:packages/mermaid/src/diagrams/error/errorRenderer.ts
 FN:14,setConf
 FN:16,get
 FN:25,draw
@@ -17203,7 +17203,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\error\styles.js
+SF:packages/mermaid/src/diagrams/error/styles.js
 FNF:0
 FNH:0
 DA:1,1
@@ -17215,7 +17215,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowChartShapes.js
+SF:packages/mermaid/src/diagrams/flowchart/flowChartShapes.js
 FN:9,question
 FN:20,node.intersect
 FN:31,hexagon
@@ -17667,7 +17667,7 @@ BRF:14
 BRH:14
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowDb.js
+SF:packages/mermaid/src/diagrams/flowchart/flowDb.js
 FN:35,sanitizeText
 FN:37,parseDirective
 FN:47,lookUpDomId
@@ -18670,7 +18670,7 @@ BRF:120
 BRH:98
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowDetector-v2.ts
+SF:packages/mermaid/src/diagrams/flowchart/flowDetector-v2.ts
 FN:6,detector
 FN:21,loader
 FNF:2
@@ -18726,7 +18726,7 @@ BRF:11
 BRH:11
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowDetector.ts
+SF:packages/mermaid/src/diagrams/flowchart/flowDetector.ts
 FN:5,detector
 FN:17,loader
 FNF:2
@@ -18774,7 +18774,7 @@ BRF:7
 BRH:7
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowDiagram-v2.ts
+SF:packages/mermaid/src/diagrams/flowchart/flowDiagram-v2.ts
 FN:14,init
 FN:25,get
 FNF:2
@@ -18815,7 +18815,7 @@ BRF:3
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowDiagram.ts
+SF:packages/mermaid/src/diagrams/flowchart/flowDiagram.ts
 FN:14,init
 FN:24,get
 FNF:2
@@ -18853,7 +18853,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowRenderer-v2.js
+SF:packages/mermaid/src/diagrams/flowchart/flowRenderer-v2.js
 FN:16,setConf
 FN:33,addVertices
 FN:192,addEdges
@@ -19386,7 +19386,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\flowRenderer.js
+SF:packages/mermaid/src/diagrams/flowchart/flowRenderer.js
 FN:14,setConf
 FN:31,addVertices
 FN:163,addEdges
@@ -19972,7 +19972,7 @@ BRF:47
 BRH:37
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\styles.ts
+SF:packages/mermaid/src/diagrams/flowchart/styles.ts
 FN:19,getStyles
 FNF:1
 FNH:0
@@ -20097,7 +20097,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\elk\detector.ts
+SF:packages/mermaid/src/diagrams/flowchart/elk/detector.ts
 FN:6,detector
 FN:18,loader
 FNF:2
@@ -20147,7 +20147,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\elk\flowRenderer-elk.js
+SF:packages/mermaid/src/diagrams/flowchart/elk/flowRenderer-elk.js
 FN:18,setConf
 FN:37,addVertices
 FN:272,getNextPosition
@@ -21143,7 +21143,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\elk\flowchart-elk-definition.ts
+SF:packages/mermaid/src/diagrams/flowchart/elk/flowchart-elk-definition.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -21168,7 +21168,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\elk\render-utils.ts
+SF:packages/mermaid/src/diagrams/flowchart/elk/render-utils.ts
 FN:6,findCommonAncestor
 FN:25,get
 FNF:2
@@ -21214,7 +21214,7 @@ BRF:8
 BRH:7
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\flowchart\elk\styles.ts
+SF:packages/mermaid/src/diagrams/flowchart/elk/styles.ts
 FN:19,genSections
 FN:33,getStyles
 FNF:2
@@ -21365,7 +21365,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\gantt\ganttDb.js
+SF:packages/mermaid/src/diagrams/gantt/ganttDb.js
 FN:43,parseDirective
 FN:47,clear
 FN:69,setAxisFormat
@@ -22307,7 +22307,7 @@ BRF:84
 BRH:77
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\gantt\ganttDetector.ts
+SF:packages/mermaid/src/diagrams/gantt/ganttDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -22342,7 +22342,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\gantt\ganttDiagram.ts
+SF:packages/mermaid/src/diagrams/gantt/ganttDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -22367,7 +22367,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\gantt\ganttRenderer.js
+SF:packages/mermaid/src/diagrams/gantt/ganttRenderer.js
 FN:23,setConf
 FN:28,draw
 FNF:2
@@ -23095,7 +23095,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\gantt\styles.js
+SF:packages/mermaid/src/diagrams/gantt/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -23370,7 +23370,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\git\gitGraphAst.js
+SF:packages/mermaid/src/diagrams/git/gitGraphAst.js
 FN:32,getId
 FN:36,parseDirective
 FN:81,uniqBy
@@ -24027,7 +24027,7 @@ BRF:65
 BRH:57
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\git\gitGraphDetector.ts
+SF:packages/mermaid/src/diagrams/git/gitGraphDetector.ts
 FN:6,detector
 FN:10,loader
 FNF:2
@@ -24063,7 +24063,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\git\gitGraphDiagram.ts
+SF:packages/mermaid/src/diagrams/git/gitGraphDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -24088,7 +24088,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\git\gitGraphRenderer.js
+SF:packages/mermaid/src/diagrams/git/gitGraphRenderer.js
 FN:22,clear
 FN:36,drawText
 FN:74,drawCommits
@@ -24647,7 +24647,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\git\styles.js
+SF:packages/mermaid/src/diagrams/git/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -24720,7 +24720,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\info\infoDb.js
+SF:packages/mermaid/src/diagrams/info/infoDb.js
 FN:8,setMessage
 FN:13,getMessage
 FN:17,setInfo
@@ -24774,7 +24774,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\info\infoDetector.ts
+SF:packages/mermaid/src/diagrams/info/infoDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -24809,7 +24809,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\info\infoDiagram.ts
+SF:packages/mermaid/src/diagrams/info/infoDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -24834,7 +24834,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\info\infoRenderer.js
+SF:packages/mermaid/src/diagrams/info/infoRenderer.js
 FN:13,draw
 FNF:1
 FNH:0
@@ -24902,7 +24902,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\info\styles.js
+SF:packages/mermaid/src/diagrams/info/styles.js
 FNF:0
 FNH:0
 DA:1,1
@@ -24914,7 +24914,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\detector.ts
+SF:packages/mermaid/src/diagrams/mindmap/detector.ts
 FN:4,detector
 FN:8,loader
 FNF:2
@@ -24948,7 +24948,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\mindmap-definition.ts
+SF:packages/mermaid/src/diagrams/mindmap/mindmap-definition.ts
 FN:12,get
 FNF:1
 FNH:1
@@ -24972,7 +24972,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\mindmapDb.js
+SF:packages/mermaid/src/diagrams/mindmap/mindmapDb.js
 FN:5,sanitizeText
 FN:10,clear
 FN:16,getParent
@@ -25192,7 +25192,7 @@ BRF:30
 BRH:27
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\mindmapRenderer.js
+SF:packages/mermaid/src/diagrams/mindmap/mindmapRenderer.js
 FN:20,drawNodes
 FN:33,drawEdges
 FN:56,addNodes
@@ -25430,7 +25430,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\styles.js
+SF:packages/mermaid/src/diagrams/mindmap/styles.js
 FN:3,genSections
 FN:52,getStyles
 FNF:2
@@ -25517,7 +25517,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\mindmap\svgDraw.js
+SF:packages/mermaid/src/diagrams/mindmap/svgDraw.js
 FN:9,wrap
 FN:51,defaultBkg
 FN:72,rectBkg
@@ -25887,7 +25887,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\pie\pieDb.js
+SF:packages/mermaid/src/diagrams/pie/pieDb.js
 FN:18,parseDirective
 FN:22,addSection
 FN:29,getSections
@@ -25987,7 +25987,7 @@ BRF:6
 BRH:5
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\pie\pieDetector.ts
+SF:packages/mermaid/src/diagrams/pie/pieDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -26022,7 +26022,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\pie\pieDiagram.ts
+SF:packages/mermaid/src/diagrams/pie/pieDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -26047,7 +26047,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\pie\pieRenderer.js
+SF:packages/mermaid/src/diagrams/pie/pieRenderer.js
 FN:18,draw
 FNF:1
 FNH:0
@@ -26265,7 +26265,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\pie\styles.js
+SF:packages/mermaid/src/diagrams/pie/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -26308,7 +26308,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\requirementDb.js
+SF:packages/mermaid/src/diagrams/requirement/requirementDb.js
 FN:51,parseDirective
 FN:55,addRequirement
 FN:72,getRequirements
@@ -26535,7 +26535,7 @@ BRF:13
 BRH:13
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\requirementDetector.ts
+SF:packages/mermaid/src/diagrams/requirement/requirementDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -26570,7 +26570,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\requirementDiagram.ts
+SF:packages/mermaid/src/diagrams/requirement/requirementDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -26595,7 +26595,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\requirementMarkers.js
+SF:packages/mermaid/src/diagrams/requirement/requirementMarkers.js
 FN:6,insertLineEndings
 FNF:1
 FNH:0
@@ -26675,7 +26675,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\requirementRenderer.js
+SF:packages/mermaid/src/diagrams/requirement/requirementRenderer.js
 FN:13,newRectNode
 FN:23,newTitleNode
 FN:75,newBodyNode
@@ -27075,7 +27075,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\requirement\styles.js
+SF:packages/mermaid/src/diagrams/requirement/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -27132,7 +27132,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\sequenceDb.js
+SF:packages/mermaid/src/diagrams/sequence/sequenceDb.js
 FN:24,parseDirective
 FN:28,addBox
 FN:38,addActor
@@ -27918,7 +27918,7 @@ BRF:123
 BRH:107
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\sequenceDetector.ts
+SF:packages/mermaid/src/diagrams/sequence/sequenceDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -27953,7 +27953,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\sequenceDiagram.ts
+SF:packages/mermaid/src/diagrams/sequence/sequenceDiagram.ts
 FN:13,get
 FNF:1
 FNH:1
@@ -27978,7 +27978,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\sequenceRenderer.ts
+SF:packages/mermaid/src/diagrams/sequence/sequenceRenderer.ts
 FN:25,getHeight
 FN:42,clear
 FN:49,addBox
@@ -29721,7 +29721,7 @@ BRF:220
 BRH:163
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\styles.js
+SF:packages/mermaid/src/diagrams/sequence/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -29852,7 +29852,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\sequence\svgDraw.js
+SF:packages/mermaid/src/diagrams/sequence/svgDraw.js
 FN:6,drawRect
 FN:31,addPopupInteraction
 FN:46,drawPopup
@@ -31115,7 +31115,7 @@ BRF:84
 BRH:59
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\id-cache.js
+SF:packages/mermaid/src/diagrams/state/id-cache.js
 FN:3,set
 FN:7,get
 FN:8,keys
@@ -31148,7 +31148,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\shapes.js
+SF:packages/mermaid/src/diagrams/state/shapes.js
 FN:14,drawStartState
 FN:29,drawDivider
 FN:46,drawSimpleState
@@ -31720,7 +31720,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateCommon.ts
+SF:packages/mermaid/src/diagrams/state/stateCommon.ts
 FN:6,get
 FN:9,get
 FN:12,get
@@ -31784,7 +31784,7 @@ BRF:7
 BRH:7
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateDb.js
+SF:packages/mermaid/src/diagrams/state/stateDb.js
 FN:43,newClassesList
 FN:51,newDoc
 FN:78,clone
@@ -32503,7 +32503,7 @@ BRF:64
 BRH:49
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateDetector-V2.ts
+SF:packages/mermaid/src/diagrams/state/stateDetector-V2.ts
 FN:5,detector
 FN:18,loader
 FNF:2
@@ -32557,7 +32557,7 @@ BRF:12
 BRH:8
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateDetector.ts
+SF:packages/mermaid/src/diagrams/state/stateDetector.ts
 FN:5,detector
 FN:14,loader
 FNF:2
@@ -32602,7 +32602,7 @@ BRF:7
 BRH:7
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateDiagram-v2.ts
+SF:packages/mermaid/src/diagrams/state/stateDiagram-v2.ts
 FN:13,init
 FN:20,get
 FNF:2
@@ -32638,7 +32638,7 @@ BRF:3
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateDiagram.ts
+SF:packages/mermaid/src/diagrams/state/stateDiagram.ts
 FN:13,init
 FN:20,get
 FNF:2
@@ -32672,7 +32672,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateRenderer-v2.js
+SF:packages/mermaid/src/diagrams/state/stateRenderer-v2.js
 FN:72,setConf
 FN:86,getClasses
 FN:108,getClassesFromDbInfo
@@ -33178,7 +33178,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\stateRenderer.js
+SF:packages/mermaid/src/diagrams/state/stateRenderer.js
 FN:15,setConf
 FN:24,insertMarkers
 FN:46,draw
@@ -33510,7 +33510,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\state\styles.js
+SF:packages/mermaid/src/diagrams/state/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -33726,7 +33726,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\detector.ts
+SF:packages/mermaid/src/diagrams/timeline/detector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -33761,7 +33761,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\styles.js
+SF:packages/mermaid/src/diagrams/timeline/styles.js
 FN:3,genSections
 FN:56,getStyles
 FNF:2
@@ -33855,7 +33855,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\svgDraw.js
+SF:packages/mermaid/src/diagrams/timeline/svgDraw.js
 FN:4,drawRect
 FN:22,drawFace
 FN:111,drawCircle
@@ -34505,7 +34505,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\timeline-definition.ts
+SF:packages/mermaid/src/diagrams/timeline/timeline-definition.ts
 FN:12,get
 FNF:1
 FNH:1
@@ -34529,7 +34529,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\timelineDb.js
+SF:packages/mermaid/src/diagrams/timeline/timelineDb.js
 FN:10,getCommonDb
 FN:12,parseDirective
 FN:16,clear
@@ -34683,7 +34683,7 @@ BRF:15
 BRH:13
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\timeline\timelineRenderer.ts
+SF:packages/mermaid/src/diagrams/timeline/timelineRenderer.ts
 FN:27,draw
 FN:242,get
 FN:244,drawTasks
@@ -35071,7 +35071,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\journeyDb.js
+SF:packages/mermaid/src/diagrams/user-journey/journeyDb.js
 FN:19,parseDirective
 FN:23,clear
 FN:31,addSection
@@ -35257,7 +35257,7 @@ BRF:17
 BRH:17
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\journeyDetector.ts
+SF:packages/mermaid/src/diagrams/user-journey/journeyDetector.ts
 FN:5,detector
 FN:9,loader
 FNF:2
@@ -35292,7 +35292,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\journeyDiagram.ts
+SF:packages/mermaid/src/diagrams/user-journey/journeyDiagram.ts
 FN:13,init
 FN:17,get
 FNF:2
@@ -35324,7 +35324,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\journeyRenderer.ts
+SF:packages/mermaid/src/diagrams/user-journey/journeyRenderer.ts
 FN:7,setConf
 FN:13,get
 FN:18,drawActorLegend
@@ -35648,7 +35648,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\styles.js
+SF:packages/mermaid/src/diagrams/user-journey/styles.js
 FN:2,getStyles
 FNF:1
 FNH:0
@@ -35796,7 +35796,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\diagrams\user-journey\svgDraw.js
+SF:packages/mermaid/src/diagrams/user-journey/svgDraw.js
 FN:3,drawRect
 FN:21,drawFace
 FN:110,drawCircle
@@ -36317,7 +36317,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\docs\.vitepress\theme\redirect.ts
+SF:packages/mermaid/src/docs/.vitepress/theme/redirect.ts
 FN:10,getBaseFile
 FN:80,getRedirect
 FN:92,get
@@ -36434,7 +36434,7 @@ BRF:10
 BRH:10
 end_of_record
 TN:
-SF:packages\mermaid\src\tests\MockedD3.ts
+SF:packages/mermaid/src/tests/MockedD3.ts
 FN:18,MockedD3
 FN:58,MockedD3.insert
 FN:120,MockedD3.getBBox
@@ -36626,7 +36626,7 @@ BRF:17
 BRH:13
 end_of_record
 TN:
-SF:packages\mermaid\src\tests\util.ts
+SF:packages/mermaid/src/tests/util.ts
 FN:29,convert
 FN:44,get
 FNF:2
@@ -36689,7 +36689,7 @@ BRF:6
 BRH:5
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\erDiagram-oldHardcodedValues.ts
+SF:packages/mermaid/src/themes/erDiagram-oldHardcodedValues.ts
 FN:6,get
 FN:7,get
 FNF:2
@@ -36711,7 +36711,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\index.js
+SF:packages/mermaid/src/themes/index.js
 FNF:0
 FNH:0
 DA:1,1
@@ -36743,7 +36743,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-base.js
+SF:packages/mermaid/src/themes/theme-base.js
 FN:9,Theme
 FN:29,updateColors
 FN:294,calculate
@@ -37081,7 +37081,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-dark.js
+SF:packages/mermaid/src/themes/theme-dark.js
 FN:5,Theme
 FN:94,updateColors
 FN:278,calculate
@@ -37436,7 +37436,7 @@ BRF:33
 BRH:9
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-default.js
+SF:packages/mermaid/src/themes/theme-default.js
 FN:9,Theme
 FN:122,updateColors
 FN:322,calculate
@@ -37910,7 +37910,7 @@ BRF:108
 BRH:101
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-forest.js
+SF:packages/mermaid/src/themes/theme-forest.js
 FN:9,Theme
 FN:96,updateColors
 FN:283,calculate
@@ -38237,7 +38237,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-helpers.js
+SF:packages/mermaid/src/themes/theme-helpers.js
 FN:3,mkBorder
 FNF:1
 FNH:1
@@ -38254,7 +38254,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:packages\mermaid\src\themes\theme-neutral.js
+SF:packages/mermaid/src/themes/theme-neutral.js
 FN:12,Theme
 FN:108,updateColors
 FN:305,calculate
